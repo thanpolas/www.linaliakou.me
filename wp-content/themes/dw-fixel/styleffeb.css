@@ -1,0 +1,106 @@
+/**
+ * Theme Name: DW Fixel
+ * Theme URI: http://www.designwall.com/wordpress/themes/dw-fixel/
+ * Demo URI: http://demo.designwall.com/dw-fixel/
+ * Author: DesignWall
+ * Author URI: http://designwall.com/
+ * Description: Responsive WordPress Blog Theme DW Fixel
+ * Version: 1.0.1
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: black, white, four-columns, right-sidebar, custom-menu, fluid-layout, responsive-layout
+ * Text Domain: dw
+ **/
+
+.wp-caption {}
+.wp-caption-text {}
+.sticky {}
+.gallery-caption {}
+.bypostauthor {}
+
+.list-signup {
+  margin-top: 30px;
+}
+.block.head h2.welcome-header2 {
+  font-size: 20px;
+  margin-bottom: 70px;
+}
+.welcome-header3 {
+
+}
+#block-custom-elections2014 .block-inner {
+  background-color: rgb(216, 213, 211);
+}
+#block-custom-elections2014 .block-content {
+  height: 100%;
+}
+#block-custom-elections2014 h2 {
+  margin-top: 20px;
+  font-size: 34px;
+  font-weight: 500;
+  text-shadow: 2px 0 2px rgba(0,0,0,.1),1px 0 1px rgba(0,0,0,.1),0px 0 0px rgba(0,0,0,.1);
+}
+.liakou-2014 #liakou-img {
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+}
+.liakou-2014 #about-intro {
+	float: none;
+	text-align: left;
+	padding-top: 12px;
+	font-size: 15px; 
+	line-height: 1.5em;
+}
+.liakou-2014 .top-strong {
+	font-weight: bold !important;
+}
+.liakou-2014 #about-intro table{
+	border-spacing: 30px;
+}
+.liakou-2014 #about-intro td{
+	padding: 21px;
+}
+.liakou-2014 #checkmark {
+	vertical-align: middle;
+}
+.liakou-2014 #mc_embed_signup2 {
+	padding: 6.250em 3.125em 6.250em 3.125em;
+	text-align: center;
+	margin-bottom: 40px
+}
+.liakou-2014 #about-lina {
+	padding: 4.375em 1.875em 4.375em 1.875em;
+	font-size: 16px;
+}
+.liakou-2014 #social-icons .fa{	
+	display: block;
+    	margin-left:auto;
+	margin-right:auto;
+	width:19%;
+}
+.liakou-2014 #social-icons .fa.fa-envelope{	
+	display: block;
+    	margin-left:auto;
+	margin-right:auto;
+	width:21% !important;
+}
+.liakou-2014 #social-icons h3{
+	display: block;
+    	margin-left:auto;
+	margin-right:auto;
+	width:37% !important;
+	text-align: center;
+}
+.liakou-2014 #footer-videos-1 {
+	padding: auto;
+}
+.liakou-2014 #footer-videos-2 {
+	padding: auto;
+}
+.mCSB_scrollTools {
+	display: none !important;
+}
+.press-image {
+	padding: 0.625em;
+}
